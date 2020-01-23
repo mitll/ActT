@@ -29,7 +29,10 @@ To install ActT, download the package, navigate to the ActT directory and run
 ```bash
 pip install .
 ```
-
+Or to directly install without cloning
+```bash
+pip install git+https://github.com/mitll/ActT
+```
 ## Basic Usage
 ```python
 from sklearn.datasets import load_iris
