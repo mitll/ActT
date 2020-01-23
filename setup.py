@@ -6,7 +6,7 @@ setup(name='ActT',
       url='',
       author='',
       author_email='none',
-      license='MIT',
+      license='BSD',
       packages=find_packages(),
       install_requires=[
         'numpy', 'pandas', 'matplotlib','scipy','scikit-learn','opencv-python',
