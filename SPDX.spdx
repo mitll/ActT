@@ -1,0 +1,5 @@
+SPDXVersion: SPDX-2.1
+PackageName: ActT (Active Testing package for python)
+PackageOriginator: Massachusetts Institue Of Technology Lincoln Laboratory
+PackageHomePage: https://github.com/mitll/ActT
+PackageLicenseDeclared: BSD-3-Clause
